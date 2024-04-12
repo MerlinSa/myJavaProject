@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.gb.saikalb","l":"Controller"},{"p":"ru.gb.saikalb","l":"Cube"},{"p":"ru.gb.saikalb","l":"CubeView"},{"p":"ru.gb.saikalb","l":"Main"}];updateSearchResults();
