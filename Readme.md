@@ -1,3 +1,8 @@
+1) программа скомпилирована командной строкой: javac -d myapp2 *.java   
+2) командная строка для запуска: java -classpath C:\GB\project\myapp2 ru.gb.saikalb.Main   
+3) создан Javadoc file "doc" : javadoc -d doc -sourcepath . -cp ./out -subpackages ru -encoding utf-8
+   
+
 # Task: 
 
 **Надо реализовать метод вращения кубика таким образом: начальное значение это первая грань каждые 1.5 секунды кубик
